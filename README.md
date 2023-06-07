@@ -14,7 +14,7 @@ Visual Studio Code
 2) Create a CSS file (e.g., styles.css) and link it to your HTML file. Then, define the styles for the grid layout using the grid-template-areas, grid-template-columns, and grid-template-rows properties.
 3) Feel free to customize the grid layout by adjusting the grid areas, columns, and rows to match your specific design requirements. You can add more elements or modify the existing ones.
 4) Open the HTML file in a web browser to see the web layout created using the CSS Grid. You should have a header at the top, a sidebar on the left, content in the center, and a footer at the bottom.
-5) Run the program.
+5) Run the program
 
 ## PROGRAM:
 
